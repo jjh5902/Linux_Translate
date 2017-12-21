@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "linuxproject-188709",
+  "private_key_id": "dd99c87c02ae0cf7d69b33b6c56035b12d60d567",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDtu47Oimnze4M7\nEkpQo2TeD07GRR/Jl0iEyPJ5AQ5Shinevb9ONxa+KJyP+LqmxpcOqJrNcqieE6Ey\nJR6NbypAOGXJGsWKFe3GQDVLQXvcH7my0e49/4n13o7iSM9j7+/6sYXk2s4vhEIZ\n7Lt60oVNNH8VhdAq3OlFwamM3TOOTVhtH9BwzI8sfvY2V72NjFuUW/t2JDL5t4gB\njsDs8Wzo9Du6RgQ6kKZWq/0REfuobJxkTgRJdPZUFike+zIZU/DUcK8IzM7eJ7Op\n1+afl88V+X/Y/sV8kNhdyCEVRrl6BzRGbHF2qSN07+4W0UDvbZu/nLlDV3MY8xGC\nnUHWAPBRAgMBAAECgf85eMjw7L4+rNZFxu1MyjN77VPlDJgUeX5HfzB0giItJnr4\n0ALhc/4n+oz7XbRsnSQgg4XMluuB9llXN9ryHV+LQ2x0apKsQRKsTKCVrVt9FKAl\nYfBTDKzbw7k4+0S2HS7m3gPV3fNP+zeN8HRGBC0ZRCXmuMgosQZeneS0t2/bvbUR\n3Y3uyKCLlgTzzn+IgzR19N1Jvt75lVHZ3+I6KmWHeQEcn03j0XR538iAKB36jDN0\nzGrPDTBzFIk/N1DGYYBx8g/Bi/gRYLnfudq9j6/kuA6s/CEIWFfi0coQUS86pWNI\nKOaFTKJbFEDZRrnnwb2E2bU55YO8WEfagv20vjECgYEA/vDxFko1w3Nakbfq4dxB\nT2I5QBFTTHrWFoCop6dNM41O70/7B834r31NnENfRCNhHDEf71fkCpZSxDs9j3s4\nzjwB2JxjbeUITtCN4hTQz4MkUuMq8mZH1g711fECwmSyJ901X0D5oeq8Lz68ngyf\n1u9xVAEkSf+Fn0vmgMPWXmUCgYEA7rhR1S7XlQxeQ+7UPnsD+QC/81+JAO4Qe6gU\nslv1SrTj5VgTCBf6u0MYXWo2XcvU+9FJQyZR9omh5vu+/EceII7E/G0c18Q2Tqpg\nviGlhFthGWcs4FfizPT8FO6C0tAsWXaTnd9fWoVpweZvjtTbLzhatzYMP018Fe5+\n3ZXLZX0CgYBJn28gDsJD9VYcas6L9z1tHWKHG/nARmD5EqKh9/CViKNY/PHzqQm+\nNCNrkxE57jWnHJCqX+ldHVg9jxYSD3WyKSYnVdJo9BFYIWY3+ebrZmXhAfVvFxZ7\nvMpFxFoVpVrFpF47adotZkp+IlH6Go82VOOXbNT8Aaym+hZQ7T1E+QKBgQDG1ohz\nBX1UDOVHuFrZYCXC9jjsQpsfRyw7k5kJp0b9XwakNWREzZRu/kgBJ0L5hZp11bEs\nWXLT43gTqYU/JQ2XGNRDXa80mZ6Sj5/dPrFbObH7MtFSXGHxTe3akYAukG8gZYA3\nc6M9Bvs8IvCxC+M1xb7p8/7ni2bb7beGYgr1EQKBgDEDcVeqINTw8IpCw2MNyU2K\nUm5F5EqqcN6C1jnSvIeqDP2PyE//HMIfA722gUEc+Mgc2CDFT/LklciNmO3rebCY\nsJvxFSbKtMCEGa+VTq5eprTJ83jgfNCSIxoMnydVdVmKYXHpTCWJI82RBLhWxN7e\nHk+Xljf9/cH0ezseMXOS\n-----END PRIVATE KEY-----\n",
+  "client_email": "linuxproject@linuxproject-188709.iam.gserviceaccount.com",
+  "client_id": "116914223709493206878",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/linuxproject%40linuxproject-188709.iam.gserviceaccount.com"
+}
